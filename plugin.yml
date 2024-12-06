@@ -1,0 +1,9 @@
+name: PDGHModeracao
+main: me.mchiappinam.pdghmoderacao.Main
+author: mchiappinam
+version: 1.0
+website: http://pdgh.net/
+commands:
+   pdgh:
+      description: Menu de ajuda.
+      usage: /<command> ?
